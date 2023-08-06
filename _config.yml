@@ -1,8 +1,7 @@
 title: Metacognition and AI
 email: ingrami@sou.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A place to place my thoughts. Navigating the world of AI can be daunting. 
-  I'm going to use this blog to document my learning, and distill this knowledge into a usable format
+  A place to place my thoughts. Distilling an ocean of information about information processing.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
