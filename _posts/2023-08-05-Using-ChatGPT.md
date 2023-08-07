@@ -9,6 +9,10 @@ my thoughts. I then conversed with chatGPT to produce a more polished and edited
 
 The entire reason for this particular series of blog posts is that I’d like to submit a poster to SIGCSE 2024 regarding ChatGPT and education. My focus for this poster would be to address how I used ChatGPT to almost effortlessly learn and complete coding assignments, even though I had little to no experience with my terminal, bash, GitHub, or any number of common coding workflows. When given an assignment I was simply able to ask the right questions in order to complete it. I did this by using dialogic learning, metacognitive regulation, and prompt engineering. I'll be doing more blog posts that will go into those terms a bit more concretely. Additionally I believe
 these strategies can generalize to any task or domain of study, regardless of knowledge level, or familiarity.
+
+
+
+
 ---
 
 
@@ -53,6 +57,8 @@ To harness the full potential of ChatGPT, understanding prompt engineering is es
 **In Conclusion: The Brave New World of Learning**
 
 ChatGPT is undoubtedly revolutionizing education. While the tool's potential misuse looms large, its value in fostering a deeper, more engaging learning experience is undeniable. The question now is, how will educators and institutions adapt to this paradigm shift?
+
+
 
 
 ---
