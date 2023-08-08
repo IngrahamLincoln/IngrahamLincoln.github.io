@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Struggle for Oraganization"
+title:  "The Struggle for Organization"
 date:   2023-08-07
 categories: jekyll update
 ---
